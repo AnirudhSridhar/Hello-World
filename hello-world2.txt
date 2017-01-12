@@ -1,0 +1,6 @@
+http://brazenly.blogspot.in/2016/05/r-text-classification-and-topic_1.html
+http://data-analytics.net/cep/Schedule_files/Textmining%20%20Clustering,%20Topic%20Modeling,%20and%20Classification.htm
+http://www.mjdenny.com/Text_Processing_In_R.html
+https://medium.com/@lettier/text-mining-in-r-death-row-prior-occupations-by-david-lettier-fc0726bd4b3#.uxdylrsik
+https://www.r-bloggers.com/the-tf-idf-statistic-for-keyword-extraction/https://www.r-bloggers.com/the-tf-idf-statistic-for-keyword-extraction/
+http://stats.stackexchange.com/questions/78321/term-frequency-inverse-document-frequency-tf-idf-weighting
